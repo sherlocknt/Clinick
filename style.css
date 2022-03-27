@@ -29,3 +29,11 @@ h2 {
 label {
     color: #2d5f74;
 }
+.nav-link{
+    transition: .4s;
+}
+.nav-link:hover {
+    transition: .4s;
+    background-color: #c9e1ee;
+    border-radius: 4em;
+}
